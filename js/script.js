@@ -1,3 +1,3 @@
 alert("ping!")
-paragrafo=document.getElementsByTagName(p)
+paragrafo=document.getElementsByTagName("p")
 paragrafo.style.property("color")="red"

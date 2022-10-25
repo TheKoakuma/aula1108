@@ -22,9 +22,10 @@
     } 
 }
 
-#texto{
-    color:red
-}
 .texto{
     color: blue;
+}
+
+#texto{
+    color:red
 }

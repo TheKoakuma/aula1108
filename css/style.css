@@ -8,5 +8,5 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .spin{
-    animation: rotation 2s infinite linear;
+    animation: rotation 1s infinite linear;
 }

@@ -4,3 +4,6 @@ body{
 #titulo{
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
+.texto{
+  font-size: 20pt;
+}

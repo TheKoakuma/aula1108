@@ -5,5 +5,5 @@ body{
   font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 .texto{
-  font-size: 20pt;
+  font-size: '20pt';
 }

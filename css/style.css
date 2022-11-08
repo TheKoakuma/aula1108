@@ -1,12 +1,12 @@
 body{
   /*background-image:url("https://i1.sndcdn.com/avatars-000527072667-gh70ka-t500x500.jpg");
-  background-size:cover;/*
+  background-size:cover;*/
 }
 #titulo{
   color:white
 }
 
-.spin1{
+.spin{
     animation: rotation 0.05s infinite linear;
 }
 

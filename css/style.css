@@ -6,7 +6,7 @@ body{
   color:white
 }
 
-.spin{
+.spin1{
     animation: rotation 0.05s infinite linear;
 }
 
